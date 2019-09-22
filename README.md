@@ -1,3 +1,3 @@
 # 2.1-Activities-and-intents
 
-YouTube link: https://www.youtube.com/watch?v=IC1Th5qxYMc&feature=youtu.be
+YouTube link: https://youtu.be/IC1Th5qxYMc
